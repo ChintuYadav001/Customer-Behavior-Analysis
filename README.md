@@ -170,7 +170,7 @@ using **Power BI Desktop**.
 
 # 👨‍💻 Author
 
-**Ankit Kumar**
+**Chintu Kumar**
 
 **B.Tech – Artificial Intelligence & Data Science**
 

@@ -154,7 +154,8 @@ using **Power BI Desktop**.
 
 # 📷 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard here.
+> <img width="1283" height="725" alt="Screenshot 2026-07-16 204858" src="https://github.com/user-attachments/assets/e35c4b51-9231-41a6-991c-a550a85c46db" />
+
 
 ---
 
